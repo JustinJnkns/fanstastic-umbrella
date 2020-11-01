@@ -1,2 +1,1 @@
-# fanstastic-umbrella
-E-commerce site
+# E-commerce Back End Starter Code
